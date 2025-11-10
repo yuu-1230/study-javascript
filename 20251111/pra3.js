@@ -9,3 +9,7 @@ console.log(Math.ceil(5.3)); //切り上げ
 console.log(window.innerWidth);
 console.log(window.innerHeight);
 console.log(document); //domtree
+
+setTimeout(function () {
+  alert("Hello");
+}, 3000);
