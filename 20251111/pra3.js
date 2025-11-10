@@ -12,4 +12,4 @@ console.log(document); //domtree
 
 setTimeout(function () {
   alert("Hello");
-}, 3000);
+}, 3000); //第二引数後に実行
