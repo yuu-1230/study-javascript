@@ -12,7 +12,6 @@ if (!isLogin) {
   console.log("ログイン中");
 }
 
-//---------------------------------------
 //関数
 const timeA = 18;
 const timeB = 5;

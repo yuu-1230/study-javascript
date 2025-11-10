@@ -4,8 +4,6 @@ console.log(1 + 1);
 //文字列の出力
 console.log("hello" + "world");
 
-//--------------------------------------
-
 //変数 constは再代入不可能。let再代入可能。
 //varは現在は主流でない。
 const foo = 1;
@@ -19,13 +17,10 @@ if (new Date().getHours() >= 18 || new Date().getHours() <= 5) {
 } else {
   document.body.style.backgroundColor = colorWhite;
 }
-//--------------------------------------
 
 //配列
 const array = ["x", "y", "z"];
 console.log(array[2]);
-
-//--------------------------------------
 
 //for文
 const questions = [
