@@ -1,1 +1,3 @@
-# study-javascript
+# Study Log
+### これは、自分の勉強記録用リポジトリです。
+
